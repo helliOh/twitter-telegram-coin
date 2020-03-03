@@ -16,7 +16,7 @@ const bot = new telegramBot(
 const conn = mysql.createConnection({
     host : 'localhost',
     user : 'root',
-    password : 'wpfktmwkddlsdjfms',
+    password : 'password',
     database : 'twitter'
 });
 //max id 적용하기 , url 내용 이전 파싱후 번역하기, url 따로 나타나게 하기 리트윗 끄기
