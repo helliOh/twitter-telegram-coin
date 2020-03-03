@@ -7,7 +7,7 @@ const request = require('request');
 const translate = require('google-translate-api');
 
 /* Objects*/
-const channelId = '-1001329053505';
+const channelId = `channel-id`;
 const bot = new telegramBot(
   process.env.TELEGRAM_BOT_KEY,
   {polling: true}
