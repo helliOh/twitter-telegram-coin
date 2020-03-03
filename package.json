@@ -1,0 +1,27 @@
+{
+  "name": "coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio-httpcli": "^0.7.3",
+    "express": "^4.16.2",
+    "google-translate-api": "^2.3.0",
+    "jade": "^1.11.0",
+    "js2xmlparser": "^3.0.0",
+    "mongodb": "^3.0.1",
+    "mysql": "^2.15.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "phantomjs": "^2.1.7",
+    "react-component-component": "^1.2.1",
+    "request": "^2.87.0",
+    "technicalindicators": "^1.1.12",
+    "twitter": "^1.7.1"
+  }
+}
